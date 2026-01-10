@@ -22,7 +22,7 @@ By using this software, you acknowledge that unauthorized access to computer sys
 
 **This project was inspired by security research and is provided for educational purposes only.**
 
-**This program was developed using the PASS REVELATOR API. To learn more about Snapchat account security and password hacking techniques, visit:**  
+**This program was developed using the PASS REVELATOR API. To learn more about TikTok account security and password hacking techniques, visit:**  
 👉 https://www.passwordrevelator.net/en/passunlocker
 
 ![PassUnlocker Logo](./PASSUNLOCKER.png)
