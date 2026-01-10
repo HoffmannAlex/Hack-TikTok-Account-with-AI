@@ -1,4 +1,4 @@
-# TikTok Security Testing Tool with Advanced AI | For Educational Purposes Only
+# TikTok Security Hacking Tool with Advanced AI in 2026 | For Educational Purposes Only
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![AI](https://img.shields.io/badge/AI-Enabled-brightgreen)
