@@ -1,0 +1,13 @@
+{
+    "azure_ad": {
+        "client_id": "votre_client_id",
+        "client_secret": "votre_client_secret",
+        "authority": "https://login.microsoftonline.com/common",
+        "scopes": ["https://graph.microsoft.com/.default"]
+    },
+    "app": {
+        "user_agent": "OutlookSecurityTester/1.0",
+        "timeout": 30,
+        "max_retries": 3
+    }
+}

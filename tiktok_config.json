@@ -1,0 +1,8 @@
+{
+    "client_key": "YOUR_TIKTOK_CLIENT_KEY",
+    "client_secret": "YOUR_TIKTOK_CLIENT_SECRET",
+    "redirect_uri": "https://your-callback-url.com/callback",
+    "api_base_url": "https://open-api.tiktok.com/",
+    "auth_url": "https://www.tiktok.com/auth/authorize/",
+    "token_url": "https://open-api.tiktok.com/oauth/access_token/"
+}

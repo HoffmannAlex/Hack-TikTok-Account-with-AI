@@ -1,0 +1,89 @@
+# Core dependencies
+aiohttp==3.9.1
+requests==2.31.0
+cryptography==42.0.5
+psutil==5.9.8
+asyncio==3.4.3
+python-dotenv==1.0.1
+
+# Authentication & API
+oauthlib==3.2.2
+requests-oauthlib==1.3.1
+python-jose[cryptography]==3.3.0
+pyjwt==2.8.0
+
+# AI & Machine Learning
+markovify==0.9.4
+numpy==1.24.3
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+
+# Web & Networking
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Data Processing
+pandas>=2.0.0
+scikit-learn>=1.2.0
+
+# Security & Privacy
+python-jose==3.3.0
+pyjwt==2.8.0
+
+# Utilities
+aiofiles==23.2.1
+
+# Configuration
+.env
+
+# Logs
+logs/
+*.log
+
+# Results
+results.txt
+security_results.txt
+valid_proxies.txt
+
+# Environment
+*.env
+__pycache__/
+*.pyc
+.DS_Store
+
+# Configuration
+config.json
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

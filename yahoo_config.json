@@ -1,0 +1,5 @@
+{
+    "client_id": "YOUR_YAHOO_CLIENT_ID",
+    "client_secret": "YOUR_YAHOO_CLIENT_SECRET",
+    "redirect_uri": "https://localhost:8080/callback"
+}

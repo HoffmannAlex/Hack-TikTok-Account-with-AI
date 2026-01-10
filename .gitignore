@@ -1,0 +1,59 @@
+# Fichiers de configuration sensibles
+config.json
+.env
+
+# Fichiers de logs
+*.log
+logs/
+
+# Fichiers de résultats
+results.txt
+security_results.txt
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de cache
+.cache/
+.pytest_cache/
+
+# Fichiers temporaires
+*.swp
+*.swo
+*~
+
+# Fichiers de développement
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Fichiers de données
+data/
+*.db
+*.sqlite3
+
+# Fichiers de sortie
+output/
+build/
+dist/
+*.egg-info/
+
+# Fichiers de test
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Fichiers Tor
+tor/
+*.torrc
