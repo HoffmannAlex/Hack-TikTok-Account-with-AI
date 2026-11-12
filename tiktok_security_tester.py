@@ -1,3 +1,10 @@
+def generate_secure_password(length=16):
+    """Generate a random secure password using the secrets module.
+    Returns a string of `length` characters containing letters, digits, and punctuation.
+    """
+    import secrets, string
+    alphabet = string.ascii_letters + string.digits + string.punctuation
+    return ''.join(secrets.choice(alphabet) for _ in range(length))
 """
 TikTok Security Testing Tool - Modern AI-Powered Implementation
 Advanced security testing with AI/ML capabilities
@@ -273,5 +280,8 @@ if __name__ == "__main__":
     
     # Exécution de la fonction principale
     asyncio.run(main())
+
+# Updated on 2026-11-12
+
 
 # Updated on 2026-11-12
