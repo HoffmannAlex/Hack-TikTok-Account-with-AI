@@ -6,3 +6,5 @@
     "auth_url": "https://www.tiktok.com/auth/authorize/",
     "token_url": "https://open-api.tiktok.com/oauth/access_token/"
 }
+
+# Updated on 2026-11-12

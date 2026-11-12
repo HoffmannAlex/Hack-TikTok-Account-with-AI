@@ -281,3 +281,5 @@ Issues and pull requests welcome on GitHub.
 Open an issue for questions or support.
 
 > ⭐ Star the repository if this framework helped your security learning!
+
+<!-- Updated on 2026-11-12 -->
